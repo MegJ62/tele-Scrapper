@@ -2,6 +2,7 @@
 This is a telegram scrapper which scrapes out username,user id, acess hash,and name.
 here in code u just have to make a few changes give your own api id api hash and phone number in international format,
 if you are facing an error like this try this fix that just installing telethon 
+
 "Traceback (most recent call last):
   File "c:\Users\shmuk\Desktop\python pojs\test.py", line 1, in <module>
     from telethon.sync import TelegramClient
