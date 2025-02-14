@@ -3,9 +3,9 @@ from telethon.tl.functions.messages import GetDialogsRequest
 from telethon.tl.types import InputPeerEmpty
 import csv
 
-api_id = 21243324       # Replace with your API ID
-api_hash = '2454c2f08e4e0eb978f3d8c50de27019'   # Replace with your API Hash
-phone = +918436018461  # Replace with your phone number
+api_id ='xxxxxxxxx'      # Replace with your API ID
+api_hash = 'xxxxxxxxxxxxxxxxxxxx'   # Replace with your API Hash
+phone = 'xxxxxxxxxxx' # Replace with your phone number
 client = TelegramClient('telegram_scrapper.py', api_id, api_hash)
 
 client.connect()
