@@ -8,6 +8,7 @@ if you are facing an error like this try this fix that just installing telethon
     from telethon.sync import TelegramClient
 ModuleNotFoundError: No module named 'telethon'" - error
 fix-
+
 Step 1: Install telethon
 
 pip install telethon(type in terminal)
